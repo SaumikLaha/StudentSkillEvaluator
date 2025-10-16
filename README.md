@@ -95,8 +95,6 @@ Thank you for using Student Skill Evaluator! 👋
 
 ---
 
----
-
 ## ⚙️ How to Run
 
 1️⃣ Clone this repository
