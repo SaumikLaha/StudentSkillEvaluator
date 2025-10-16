@@ -97,8 +97,10 @@ Thank you for using Student Skill Evaluator! 👋
 
 ## ⚙️ How to Run
 
-1️⃣ Clone this repository
+
 ```bash
+  1️⃣ Clone this repository
+
   git clone https://github.com/SaumikLaha/StudentSkillEvaluator.git
   
 2️⃣ Open in IntelliJ IDEA or VS Code
@@ -123,12 +125,12 @@ java StudentSkillEvaluator
     - BufferedWriter
 
 ## 👨‍💻 Author
-**Saumik Laha**  
-Java Programming Intern – MotionCut
 
-📧 Email: [saumiklaha@gmail.com](mailto:saumiklaha@gmail.com)  
-🌐 GitHub: [SaumikLaha](https://github.com/SaumikLaha)  
-🔗 LinkedIn: [Saumik Laha](https://www.linkedin.com/in/saumik-laha)
+**Saumik Laha**  
+Java Programming Intern – MotionCut  
+📧 [saumiklaha@gmail.com](mailto:saumiklaha@gmail.com)  
+🌐 [GitHub Profile](https://github.com/SaumikLaha)  
+🔗 [LinkedIn](https://www.linkedin.com/in/saumik-laha-530883381/)
 
 ---
 
